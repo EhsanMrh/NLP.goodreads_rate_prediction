@@ -2,7 +2,6 @@
 
 ## [Results in Kaggle](https://www.kaggle.com/code/ehsanmrh/nlp-goodreads-eda-ml-pytorch-lightning)
 
-======
 
 
 ```
