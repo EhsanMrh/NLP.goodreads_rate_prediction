@@ -1,6 +1,7 @@
 # GoodReads Rate Prediction
 
-## [Results in Kaggle](https://www.kaggle.com/code/ehsanmrh/nlp-goodreads-eda-ml-pytorch-lightning)
+## [Data cleaning and some exploratory](https://www.kaggle.com/code/ehsanmrh/nlp-goodreads-eda-ml-pytorch-lightning)
+## [EDA on comments](https://www.kaggle.com/ehsanmrh/eda-on-the-goodreads-comments)
 
 
 
